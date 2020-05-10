@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS-Notes/CS-Notes.iml" filepath="$PROJECT_DIR$/../CS-Notes/CS-Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java8-learn.iml" filepath="$PROJECT_DIR$/.idea/java8-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jvm-learn/jvm-learn.iml" filepath="$PROJECT_DIR$/../jvm-learn/jvm-learn.iml" />
+    </modules>
+  </component>
+</project>
