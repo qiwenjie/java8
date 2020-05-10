@@ -1,4 +1,4 @@
-# java8学习   qiwenjie
+# java8学习   qiwenjie  qiwenjie
 ### 为何需要lambda表达式？
 
 - 在Java中，我们无法将函数作为参数传递给一个方法，也无法声明返回一个函数的方法,
